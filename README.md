@@ -1,0 +1,2 @@
+# pyramidanddiamondpattern
+Python Project
